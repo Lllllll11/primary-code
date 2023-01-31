@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\structural.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\structural.dir/objects.a @CMakeFiles\structural.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\structural.dir/objects.a -Wl,--no-whole-archive -o structural.exe -Wl,--out-implib,libstructural.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\structural.dir\linklibs.rsp
