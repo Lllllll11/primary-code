@@ -1,0 +1,3 @@
+D:/code/6/for loops/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/6/for loops/cmake-build-debug/CMakeFiles/for_loops.dir
+D:/code/6/for loops/cmake-build-debug/CMakeFiles/rebuild_cache.dir
