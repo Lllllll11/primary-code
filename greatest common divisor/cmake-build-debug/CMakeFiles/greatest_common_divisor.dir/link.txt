@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\greatest_common_divisor.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\greatest_common_divisor.dir/objects.a @CMakeFiles\greatest_common_divisor.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\greatest_common_divisor.dir/objects.a -Wl,--no-whole-archive -o greatest_common_divisor.exe -Wl,--out-implib,libgreatest_common_divisor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\greatest_common_divisor.dir\linklibs.rsp
