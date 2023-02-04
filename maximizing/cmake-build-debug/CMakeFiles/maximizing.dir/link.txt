@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\maximizing.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\maximizing.dir/objects.a @CMakeFiles\maximizing.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\maximizing.dir/objects.a -Wl,--no-whole-archive -o maximizing.exe -Wl,--out-implib,libmaximizing.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\maximizing.dir\linklibs.rsp

@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\the_number_of_nine.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\the_number_of_nine.dir/objects.a @CMakeFiles\the_number_of_nine.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\the_number_of_nine.dir/objects.a -Wl,--no-whole-archive -o the_number_of_nine.exe -Wl,--out-implib,libthe_number_of_nine.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\the_number_of_nine.dir\linklibs.rsp
