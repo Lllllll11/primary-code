@@ -20,7 +20,7 @@ void game()
     //调用rand之前，要调用srand函数去设置随机数生成器
     //2.猜数字
     while(1) {
-        printf("please enter number from 0 to 100:");
+        printf("please enter number from 1 to 100:");
         scanf("%d", &a);
         if (a > ret)
         {
