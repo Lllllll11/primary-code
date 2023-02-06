@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\automatic_shut.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\automatic_shut.dir/objects.a @CMakeFiles\automatic_shut.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\automatic_shut.dir/objects.a -Wl,--no-whole-archive -o automatic_shut.exe -Wl,--out-implib,libautomatic_shut.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\automatic_shut.dir\linklibs.rsp

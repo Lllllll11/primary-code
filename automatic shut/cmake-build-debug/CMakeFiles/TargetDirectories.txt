@@ -1,0 +1,3 @@
+D:/code/9/automatic shut/cmake-build-debug/CMakeFiles/automatic_shut.dir
+D:/code/9/automatic shut/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/9/automatic shut/cmake-build-debug/CMakeFiles/rebuild_cache.dir
