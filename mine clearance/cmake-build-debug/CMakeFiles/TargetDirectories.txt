@@ -1,0 +1,3 @@
+D:/code/12/mine clearance/cmake-build-debug/CMakeFiles/mine_clearance.dir
+D:/code/12/mine clearance/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/12/mine clearance/cmake-build-debug/CMakeFiles/rebuild_cache.dir
