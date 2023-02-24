@@ -1,0 +1,3 @@
+D:/code/13/operates an integer array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/code/13/operates an integer array/cmake-build-debug/CMakeFiles/operates_an_integer_array.dir
+D:/code/13/operates an integer array/cmake-build-debug/CMakeFiles/edit_cache.dir

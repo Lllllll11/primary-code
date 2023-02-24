@@ -1,0 +1,3 @@
+"D:\C\CLion 2021.1.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\operates_an_integer_array.dir/objects.a
+C:\mingw64\bin\ar.exe cr CMakeFiles\operates_an_integer_array.dir/objects.a @CMakeFiles\operates_an_integer_array.dir\objects1.rsp
+C:\mingw64\bin\gcc.exe -g -Wl,--whole-archive CMakeFiles\operates_an_integer_array.dir/objects.a -Wl,--no-whole-archive -o operates_an_integer_array.exe -Wl,--out-implib,liboperates_an_integer_array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\operates_an_integer_array.dir\linklibs.rsp
