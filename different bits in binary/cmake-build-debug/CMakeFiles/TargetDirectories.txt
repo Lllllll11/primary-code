@@ -1,0 +1,3 @@
+D:/code/14/different bits in binary/cmake-build-debug/CMakeFiles/different_bits_in_binary.dir
+D:/code/14/different bits in binary/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/14/different bits in binary/cmake-build-debug/CMakeFiles/rebuild_cache.dir

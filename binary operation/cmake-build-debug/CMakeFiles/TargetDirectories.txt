@@ -1,0 +1,3 @@
+D:/code/14/binary operation/cmake-build-debug/CMakeFiles/binary_operation.dir
+D:/code/14/binary operation/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/14/binary operation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

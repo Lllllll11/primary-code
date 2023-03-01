@@ -1,0 +1,3 @@
+D:/code/14/print each digit of a number/cmake-build-debug/CMakeFiles/print_each_digit_of_a_number.dir
+D:/code/14/print each digit of a number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/code/14/print each digit of a number/cmake-build-debug/CMakeFiles/rebuild_cache.dir
